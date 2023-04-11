@@ -13,7 +13,7 @@ This is a project built using [Next.js 13]. It uses the newer features such as:
 - loading.js Page
 - and more
 
-## Basic Overview - [Live Demo]()
+## Basic Overview 
 
 ## Usage
 
