@@ -1,6 +1,6 @@
 ## EDUDEV - Web development tutorials and courses
 
-This is a project built using [Next.js 13]. It uses the newer features such as:
+This is a project built using Next.js 13. It uses the newer features such as:
 
 - App directory
 - New routing system
